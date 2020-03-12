@@ -1,4 +1,4 @@
-package com.tatastrive.fristgit;
+package com.tatastrive.firstgit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
